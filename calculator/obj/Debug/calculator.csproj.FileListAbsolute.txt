@@ -1,0 +1,10 @@
+D:\大三下学习\现代软件开发技术\作业2\calculator\bin\Debug\calculator.exe.config
+D:\大三下学习\现代软件开发技术\作业2\calculator\bin\Debug\calculator.exe
+D:\大三下学习\现代软件开发技术\作业2\calculator\bin\Debug\calculator.pdb
+D:\大三下学习\现代软件开发技术\作业2\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\大三下学习\现代软件开发技术\作业2\calculator\obj\Debug\calculator.Form1.resources
+D:\大三下学习\现代软件开发技术\作业2\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\大三下学习\现代软件开发技术\作业2\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\大三下学习\现代软件开发技术\作业2\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\大三下学习\现代软件开发技术\作业2\calculator\obj\Debug\calculator.exe
+D:\大三下学习\现代软件开发技术\作业2\calculator\obj\Debug\calculator.pdb
